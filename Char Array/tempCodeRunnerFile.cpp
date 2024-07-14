@@ -1,0 +1,1 @@
+swap(name[start++],name[end--]);
